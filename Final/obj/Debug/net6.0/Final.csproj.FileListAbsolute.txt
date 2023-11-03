@@ -1,0 +1,15 @@
+C:\Users\astrokloud\Desktop\Challenge-project-Create-methods-in-CSharp-main\Final\bin\Debug\net6.0\Final.exe
+C:\Users\astrokloud\Desktop\Challenge-project-Create-methods-in-CSharp-main\Final\bin\Debug\net6.0\Final.deps.json
+C:\Users\astrokloud\Desktop\Challenge-project-Create-methods-in-CSharp-main\Final\bin\Debug\net6.0\Final.runtimeconfig.json
+C:\Users\astrokloud\Desktop\Challenge-project-Create-methods-in-CSharp-main\Final\bin\Debug\net6.0\Final.dll
+C:\Users\astrokloud\Desktop\Challenge-project-Create-methods-in-CSharp-main\Final\bin\Debug\net6.0\Final.pdb
+C:\Users\astrokloud\Desktop\Challenge-project-Create-methods-in-CSharp-main\Final\obj\Debug\net6.0\Final.csproj.AssemblyReference.cache
+C:\Users\astrokloud\Desktop\Challenge-project-Create-methods-in-CSharp-main\Final\obj\Debug\net6.0\Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\astrokloud\Desktop\Challenge-project-Create-methods-in-CSharp-main\Final\obj\Debug\net6.0\Final.AssemblyInfoInputs.cache
+C:\Users\astrokloud\Desktop\Challenge-project-Create-methods-in-CSharp-main\Final\obj\Debug\net6.0\Final.AssemblyInfo.cs
+C:\Users\astrokloud\Desktop\Challenge-project-Create-methods-in-CSharp-main\Final\obj\Debug\net6.0\Final.csproj.CoreCompileInputs.cache
+C:\Users\astrokloud\Desktop\Challenge-project-Create-methods-in-CSharp-main\Final\obj\Debug\net6.0\Final.dll
+C:\Users\astrokloud\Desktop\Challenge-project-Create-methods-in-CSharp-main\Final\obj\Debug\net6.0\refint\Final.dll
+C:\Users\astrokloud\Desktop\Challenge-project-Create-methods-in-CSharp-main\Final\obj\Debug\net6.0\Final.pdb
+C:\Users\astrokloud\Desktop\Challenge-project-Create-methods-in-CSharp-main\Final\obj\Debug\net6.0\Final.genruntimeconfig.cache
+C:\Users\astrokloud\Desktop\Challenge-project-Create-methods-in-CSharp-main\Final\obj\Debug\net6.0\ref\Final.dll
