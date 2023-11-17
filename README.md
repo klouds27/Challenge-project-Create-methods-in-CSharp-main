@@ -1,5 +1,3 @@
-# Challenge-project-Create-methods-in-CSharp
-
 
 # Console Game - Food Eater
 
